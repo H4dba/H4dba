@@ -34,8 +34,8 @@ I enjoy working on meaningful projects that connect technology with real-world i
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilhermehadba&show_icons=true&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermehadba&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=H4dba&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=H4dba&theme=default&hide_border=true" />
 </p>
 
 ---
