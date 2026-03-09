@@ -43,7 +43,7 @@ I enjoy working on meaningful projects that connect technology with real-world i
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/guilhermehadba)  
 - 📧 [Email](mailto:guilhermehadba@example.com)  
-- 🧾 [Portfolio / Projects](h4dba.me)  
+- 🧾 [Portfolio / Projects](https://www.h4dba.me)  
 
 ---
 
